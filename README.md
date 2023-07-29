@@ -7,6 +7,15 @@
 </br>
 </br>
 </br>
+<div align="center">
+🌱I'm currently studying at Microverse  
+  <br/>
+   😄 Pronouns: She/her
+<br/>
+📫 How to reach me: biancalopez.escalada@gmail.com 
+</div>
+
+
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaMe&show_icons=true&count_private=true&hide_border=true&title_color=F7E822&icon_color=F7E822&text_color=c9d1d9&bg_color=0d1117" alt="BiancaMe github stats" /> 
@@ -33,4 +42,13 @@
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 </div>
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=BiancaMe&style=for-the-badge&color=yellow)
+</div>
+<div align="center">
+  
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=BiancaMe)](https://github.com/BiancaMe/github-contribution-stats/)
+</div>
+
 
