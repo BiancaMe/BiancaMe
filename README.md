@@ -2,7 +2,7 @@
 <div align="center" width="100%"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=4000&color=F7E822&center=true&width=500&lines=Hello!+My+name+is+Bianca." alt="Typing SVG" /></a></div>
 
 </br>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1500&color=8A8C89&center=true&width=380&lines=I'm+a+Software+Developer.+" alt="Typing SVG" /></a><img width="10%"  src="https://64.media.tumblr.com/3e5272f34d4ba42113175538fe821339/tumblr_op8e85mxw51rl04amo1_500.gif"></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1500&color=8A8C89&center=true&width=380&lines=I'm+a+Full-Stack+Developer.+" alt="Typing SVG" /></a><img width="10%"  src="https://64.media.tumblr.com/3e5272f34d4ba42113175538fe821339/tumblr_op8e85mxw51rl04amo1_500.gif"></div>
 
 </br>
 </br>
